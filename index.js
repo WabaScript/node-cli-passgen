@@ -26,6 +26,6 @@ if (save) {
     savePassword(generatedPassword)
 }
 
-// test framework
+// Logs
 console.log(chalk.blue('Generated Password: ') + chalk.bold(generatedPassword))
 console.log(chalk.yellow('Password copied to clipboard!'))
