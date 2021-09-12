@@ -1,0 +1,16 @@
+{
+  "name": "passgen-cli",
+  "version": "1.0.0",
+  "description": "Simple password generator in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ricky",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.2.0"
+  }
+}
